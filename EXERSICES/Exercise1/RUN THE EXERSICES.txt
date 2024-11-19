@@ -1,0 +1,3 @@
+FOR THE RUN EXERSICE IN THE VS_CODE I SHOULD COPY THE "ORG" FOLDER IN THIS ADDRESS
+E:\semester 1\03_Big data for internet application\!!2024-25\Big Data\Exersices\HADOOP\Exercise1\src\main\java
+TO THE SAME ADDRESS OF THE EXERSICES
